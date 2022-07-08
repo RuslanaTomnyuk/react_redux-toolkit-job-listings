@@ -1,8 +1,6 @@
 # JOB LISTINGS REDUX
-  [DEMO LINK](https://RuslanaTomnyuk.github.io/react_redux-job-listings/)
 
-=======
-#redux_jobs_listings
+  [DEMO LINK](https://RuslanaTomnyuk.github.io/react_redux-job-listings/)
 
 Built with
 Semantic HTML5 markup
