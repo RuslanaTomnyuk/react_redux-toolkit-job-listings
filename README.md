@@ -1,5 +1,5 @@
 # JOB LISTINGS REDUX
-  [DEMO LINK](https://RuslanaTomnyuk.github.io/react_redux-list-of-todos/)
+  [DEMO LINK](https://RuslanaTomnyuk.github.io/react_redux-job-listings/)
 
 =======
 #redux_jobs_listings
