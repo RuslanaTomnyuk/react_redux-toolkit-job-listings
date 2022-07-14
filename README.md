@@ -3,7 +3,9 @@
    [DEMO LINK](https://ruslanatomnyuk.github.io/RuslanaTomnyuk.github.io.redux_jobs_listings/)
 
 Built with:
+
 Using Redux Toolkit
+
 Semantic HTML5 markup
 CSS custom properties
 Flexbox
