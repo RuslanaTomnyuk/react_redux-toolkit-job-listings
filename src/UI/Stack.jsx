@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-const Stack = ({children, pos}) => (
+const Stack = ({ children, pos }) => (
   <div className='stack' style={{
     justifyContent: pos === 'center' ? 'center' : `flex-${pos}`
   }}>
@@ -8,8 +8,8 @@ const Stack = ({children, pos}) => (
   </div>
 );
 
-export {Stack};
+export { Stack };
 
 Stack.propTypes = {
   children: PropTypes.node.isRequired,
-}
+};

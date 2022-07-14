@@ -1,16 +1,17 @@
 {
-  "name": "react_redux-job-listings",
+  "name": "react_redux-toolkit-job-listings",
   "homepage": ".",
   "version": "0.1.0",
   "author": "Ruslana Tomnyuk",
   "private": true,
   "dependencies": {
+    "@reduxjs/toolkit": "^1.8.3",
     "gh-pages": "^4.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.6",
     "react-scripts": "5.0.0",
-    "redux": "^4.1.2"
+    "redux-persist": "^6.0.0"
   },
   "scripts": {
     "predeploy": "npm run build",

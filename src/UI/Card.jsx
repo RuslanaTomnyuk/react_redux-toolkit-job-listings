@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-const Card = ({children, isFeatured, className}) => {
+const Card = ({ children, isFeatured, className }) => {
   return (
     <div
       className={
@@ -12,10 +12,10 @@ const Card = ({children, isFeatured, className}) => {
   )
 }
 
-export {Card};
+export { Card };
 
 Card.propTypes = {
   children: PropTypes.node.isRequired,
   isFeatured: PropTypes.bool,
   className: PropTypes.string,
-}
+};
