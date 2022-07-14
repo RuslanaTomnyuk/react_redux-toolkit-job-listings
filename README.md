@@ -4,12 +4,16 @@
 
 Built with:
 
-Using Redux Toolkit
-Semantic HTML5 markup
-CSS custom properties
-Flexbox
-CSS Grid
 React - JS library
-Redux
+
+Using Redux Toolkit
+
+Semantic HTML5 markup
+
+Flexbox
+
+CSS custom properties
+
+CSS Grid
+
 Styled Components - For styles
-# RuslanaTomnyuk.github.io
