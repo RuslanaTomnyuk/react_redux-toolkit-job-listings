@@ -5,7 +5,6 @@
 Built with:
 
 Using Redux Toolkit
-
 Semantic HTML5 markup
 CSS custom properties
 Flexbox
