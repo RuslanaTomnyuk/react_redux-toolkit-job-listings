@@ -1,6 +1,6 @@
 # JOB LISTINGS REDUX-TOOLKIT
 
-  [DEMO LINK](https://RuslanaTomnyuk.github.io/react_redux-toolkit-job-listings/)
+  [DEMO LINK](https://https://ruslanatomnyuk.github.io/RuslanaTomnyuk.github.io.redux_jobs_listings/)
 
 Built with:
 Using Redux Toolkit
